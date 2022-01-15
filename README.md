@@ -25,6 +25,14 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
+<br />
+<br />
+<br />
+
+## Github status - [Draxsis][website] 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Draxsis&show_icons=true&theme=radical)
+
 [website]: https://github.com/draxsis
 [youtube]: https://www.youtube.com/channel/UCg_NcEF_d8SV12XE9licP6g
 [instagram]: https://instagram.com/mostafa.koolabadi
