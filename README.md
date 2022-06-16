@@ -2,7 +2,7 @@
 
 - 🔭 I'm studying software engineering
 - 🌱 I’m currently learning python and Django
-- 👯 I’m 19 years old and live in IRAN 
+- 👯 I’m 20 years old and live in IRAN 
 - ⚡ Fun fact: I love to code, play video games and play guitar
 
 ### Connect with me:
