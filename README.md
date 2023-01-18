@@ -1,9 +1,9 @@
 ## Hi there, I'm Mostafa - aka [Draxsis][website] 👋 
 
-- 🔭 I'm studying software engineering
-- 🌱 I’m currently learning NodeJS and React
-- 👯 I’m 21 years old and live in IRAN 
-- ⚡ Fun fact: I love coding, play video games and play guitar
+- 🔭 I'm studying software engineering.
+- 🌱 I’m currently learning MERN stack.
+- 👯 I’m 21 years old and live in IRAN.
+- ⚡ Fun fact: I love coding, play video games and play guitar.
 
 ### Connect with me:
 
