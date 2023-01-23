@@ -38,5 +38,5 @@
 [youtube]: https://www.youtube.com/channel/UCg_NcEF_d8SV12XE9licP6g
 [instagram]: https://instagram.com/mostafa.koolabadi
 [linkedin]: https://linkedin.com/in/draxsis
-[discord]: discordapp.com/users/620333062173098005
+[discord]: https://discordapp.com/users/620333062173098005
 
