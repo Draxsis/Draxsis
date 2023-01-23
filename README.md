@@ -3,7 +3,7 @@
 - 🔭 I'm studying software engineering.
 - 🌱 I’m currently learning MERN stack.
 - 👯 I’m 21 years old and live in IRAN.
-- ⚡ Fun fact: I love coding and meeting new people.
+- ⚡ Fun fact: I'm a Tea person and I can speak German, English, Persian.
 - 💻 I'm both Linux & Windows user.
 
 ### Connect with me:
