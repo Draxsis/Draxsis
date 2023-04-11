@@ -15,8 +15,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Draxsis&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Draxsis&icon=5&color=0)](https://visitcount.itsvg.in)
