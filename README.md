@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm studying software engineering.<br>🌱 I’m currently learning Node.js and React.<br>👯 I’m 21 y.o and live in Tehran, Iran.<br>⚡I can speak Persian, English, German.<br>
+🔭 I'm studying software engineering.<br>🌱 I’m currently learning Node.js and React.<br>🏡 I’m 21 y.o and live in Tehran, Iran.<br>🗣️I can speak Persian, English, German.<br>
 
 
 ## 🌐 Socials:
