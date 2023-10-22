@@ -1,8 +1,8 @@
 #  About Me:
-🔭 I'm studying software engineering.<br>🌱 I’m currently learning Node.js and React.<br>🏡 I’m 21 y.o and live in Tehran, Iran.<br>🗣️I can speak Persian, English and German.<br>
+🔭 I'm studying software engineering.<br>🌱 I’m currently learning Node.js and React.<br>🏡 I’m 21 y.o and live in Tehran, Iran.<br>🗣️I can speak Persian, English, and German.<br>
 
 
-##  Socials:
+#  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mostafa-Koolabadi) 
 [![LeetCode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=leetcode&logoColor=white)](https://leetcode.com/Rolexsism/)
 
