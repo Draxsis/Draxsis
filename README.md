@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on any kind of project!<br>🌱 I’m currently learning C# & SQL server<br>💬 Feel Free to Ask me about Anything<br>⚡fun fact, I am addicted to coding.
+🔭 I’m currently working on a Big Project.<br>👯 I’m looking to collaborate on any kind of project!<br>🌱 I’m currently learning C# & SQL server.<br>💬 Feel Free to Ask me about Anything.<br>⚡fun fact, I am addicted to coding.
 
 
 ## 🌐 Socials:
