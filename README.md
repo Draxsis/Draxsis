@@ -1,7 +1,7 @@
 # 👋 Hey There:
 🔵 I am confident working on a big project and excited to explore collaboration opportunities on any kind of project.</br>
-🔵 My current focus is on mastering C# and SQL Server.
-🔵 Please feel free to ask me anything, as I am confident in my ability to provide helpful insights.
+🔵 My current focus is on mastering C# and SQL Server.</br>
+🔵 Please feel free to ask me anything, as I am confident in my ability to provide helpful insights.</br>
 🔵 And, by the way, I am totally addicted to coding.
 
 ## 🌐 Socials:
