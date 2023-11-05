@@ -1,6 +1,8 @@
 # 👋 Hey There:
-🔭 I’m currently working on a Big Project.<br>👯 I’m looking to collaborate on any kind of project!<br>🌱 I’m currently learning C# & SQL server.<br>💬 Feel Free to Ask me about Anything.<br>⚡fun fact, I am addicted to coding.
-
+🔵 I am confident working on a big project and excited to explore collaboration opportunities on any kind of project.</br>
+🔵 My current focus is on mastering C# and SQL Server.
+🔵 Please feel free to ask me anything, as I am confident in my ability to provide helpful insights.
+🔵 And, by the way, I am totally addicted to coding.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-koolabadi) [![Leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=leetcode&logoColor=white)](https://Leetcode.com/rolexsism)
