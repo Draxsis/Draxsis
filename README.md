@@ -38,8 +38,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)</br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-3670A0?style=flat-square&logo=pandas&logoColor=ffdd54)
-![Numpy](https://img.shields.io/badge/numpy-3670A0?style=flat-square&logo=numpy&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-3670A0?style=flat-square&logo=pandas&logoColor=010101)
+![Numpy](https://img.shields.io/badge/numpy-3670A0?style=flat-square&logo=numpy&logoColor=%23F7DF1E)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Draxsis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
