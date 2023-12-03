@@ -1,5 +1,5 @@
 # 👋 Hey There:
-🔵 I am confident working on a big project and excited to explore collaboration opportunities on any kind of project.</br>
+🔵 I am confident working on a big project and excited to explore collaboration opportunities on any project.</br>
 🔵 My current focus is on mastering C# and Web Develop.</br>
 🔵 Please feel free to ask me anything, as I am confident in my ability to provide helpful insights.</br>
 🔵 And, by the way, I am addicted to coding.
@@ -9,17 +9,17 @@
 
 ## 📈 Learning Board : 
 
-| Topic             | Description    | Start         | End      | Done        |
-|    :---:          |     :---:      |     :---:     |   :---:  |  :---:      |
-| HTML & CSS        | git status     | git status    |          |    ✅      |
-| JavaScript        | git diff       | git diff      |          |    ✅      |
-| TypeScript        | git diff       | git diff      |          |     ⬜️📅   |
-| MUI & Tailwind    | git diff       | git diff      |          |     ✅      |
-| React.js          | git diff       | git diff      |          |    ✅       |
-| Node.js & express | git diff       | git diff      |          |   ⬜️🕝      |
-| C# & .NET         | git diff       | git diff      |          |      ⬜️🕝   |
-| SQL server        | git diff       | git diff      |          |     ✅      |
-| MongoDB           | git diff       | git diff      |          |      ✅     |
+| Topic             | Description                                                  | Start             | End      | Done        |
+|    :---:          |     :---:                                                    |     :---:         |   :---:  |  :---:      |
+| HTML & CSS        | Completed basics and advance                                 | September 2021    |          |    ✅      |
+| JavaScript        | Completed fundamentals and continued to advance concepts     | September 2021    |          |    ✅      |
+| TypeScript        | Still didn't start                                           | -                 |     -    |     ⬜️📅   |
+| MUI & Tailwind    | learned how to use and read the Docs                         | git diff          |          |     ✅      |
+| React.js          | Completed basics and advance concepts in MFT                 | git diff          |          |    ✅       |
+| Node.js & express | Completed basics but didn't dive into more advanced concepts | git diff          |          |   ⬜️🕝      |
+| C# & .NET         | Still learning in Dotin Bootcamp                             | December 2023     |     February 2024     |      ⬜️🕝   |
+| SQL server        | Completed basics and advance concepts (OLTP)                 | October 2023          |     December 2023     |     ✅      |
+| MongoDB           | Completed basics but didn't dive into more advanced concepts | August 2022          |     September 2022     |      ✅     |
 
 
 
