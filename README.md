@@ -7,22 +7,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-koolabadi) [![Leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=leetcode&logoColor=white)](https://Leetcode.com/rolexsism)
 
-## 📈 Learning Board : 
-
-| Topic             | Description                                                  | Start             | End                   | Done        |
-|    :---:          |     :---:                                                    |     :---:         |   :---:               |  :---:      |
-| HTML & CSS        | Completed basics and advance                                 | March 2021        |     May 2021          |    ✅      |
-| JavaScript        | Completed fundamentals and continued to advance concepts     | June 2021    |     September 2021     |    ✅      |
-| MUI & Tailwind    | learned how to use and read the Docs                         | September 2021    |      October 2021    |     ✅      |
-| React.js          | Completed basics and advance concepts in MFT                 | October 2021    |     January 2022     |    ✅       |
-| TypeScript        | Still didn't start                                           | -                 |     -                 |     ⬜️ 📅   |
-| Node.js & express | Completed basics and learned a lot of tools like Postman, git, etc.. | January 2022    |    April 2022      |   ⬜️ 📅      |
-| MongoDB           | Completed basics but didn't dive into more advanced concepts | August 2022       |     September 2022    |      ✅     |
-| SQL server        | Completed basics and advance concepts (OLTP)                 | October 2023      |     December 2023     |     ✅      |
-| C# & .NET         | Still learning in Dotin Bootcamp                             | December 2023     |     February 2024     |      ⬜️ 📅   |
-
-
-
 # 💻 Tech Stack:
 
 **Basic Web development:** </br>
@@ -60,6 +44,22 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)</br>
+
+
+## 📈 Learning Board : 
+
+| Topic             | Description                                                  | Start             | End                   | Done        |
+|    :---:          |     :---:                                                    |     :---:         |   :---:               |  :---:      |
+| HTML & CSS        | Completed basics and advance                                 | March 2021        |     May 2021          |    ✅      |
+| JavaScript        | Completed fundamentals and continued to advance concepts     | June 2021    |     September 2021     |    ✅      |
+| MUI & Tailwind    | learned how to use and read the Docs                         | September 2021    |      October 2021    |     ✅      |
+| React.js          | Completed basics and advance concepts in MFT                 | October 2021    |     January 2022     |    ✅       |
+| TypeScript        | Still didn't start                                           | -                 |     -                 |      📅   |
+| Node.js & express | Completed basics and learned a lot of tools like Postman, git, etc.. | January 2022    |    April 2022      |    📅      |
+| MongoDB           | Completed basics but didn't dive into more advanced concepts | August 2022       |     September 2022    |      ✅     |
+| SQL server        | Completed basics and advance concepts (OLTP)                 | October 2023      |     December 2023     |     ✅      |
+| C# & .NET         | Still learning in Dotin Bootcamp                             | December 2023     |     February 2024     |       📅   |
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Draxsis&theme=tokyonight&hide_border=false)
