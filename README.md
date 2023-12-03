@@ -7,6 +7,22 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-koolabadi) [![Leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=leetcode&logoColor=white)](https://Leetcode.com/rolexsism)
 
+## 📈 Learning Board : 
+
+| Topic             | Description    | Start         | End      | Done        |
+|    :---:          |     :---:      |     :---:     |   :---:  |  :---:      |
+| HTML & CSS        | git status     | git status    |          |    ✅      |
+| JavaScript        | git diff       | git diff      |          |    ✅      |
+| TypeScript        | git diff       | git diff      |          |     ⬜️📅   |
+| MUI & Tailwind    | git diff       | git diff      |          |     ✅      |
+| React.js          | git diff       | git diff      |          |    ✅       |
+| Node.js & express | git diff       | git diff      |          |   ⬜️🕝      |
+| C# & .NET         | git diff       | git diff      |          |      ⬜️🕝   |
+| SQL server        | git diff       | git diff      |          |     ✅      |
+| MongoDB           | git diff       | git diff      |          |      ✅     |
+
+
+
 # 💻 Tech Stack:
 
 **Basic Web development:** </br>
