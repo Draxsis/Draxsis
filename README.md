@@ -1,4 +1,5 @@
-# 👋 Hey There:
+# ![github-header-image](https://github.com/Draxsis/Draxsis/assets/93474063/1db8fa48-f09b-45e2-949a-1f99e64754a8)
+
 🔵 I am confident working on a big project and excited to explore collaboration opportunities on any project.</br>
 🔵 My current focus is on mastering C# and Web Develop.</br>
 🔵 Please feel free to ask me anything, as I am confident in my ability to provide helpful insights.</br>
