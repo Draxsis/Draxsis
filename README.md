@@ -1,4 +1,4 @@
-# ![github-header-image](https://github.com/Draxsis/Draxsis/assets/93474063/1db8fa48-f09b-45e2-949a-1f99e64754a8)
+# Hey there, I'm Draxsis 👋
 
 🔵 I am confident working on a big project and excited to explore collaboration opportunities on any project.</br>
 🔵 My current focus is on mastering C# and Web Develop.</br>
