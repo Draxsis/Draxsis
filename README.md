@@ -66,7 +66,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Draxsis&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Draxsis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# [![Draxsis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Draxsis&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+# [![Draxsis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Draxsis&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Draxsis&theme=radical&no-frame=false&no-bg=false&margin-w=4)
