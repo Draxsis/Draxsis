@@ -62,7 +62,7 @@
 | C# & .NET         | Still learning in Dotin Bootcamp                             | December 2023     |     February 2024     |       📅   |
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Draxsis&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Draxsis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
