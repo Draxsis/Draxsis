@@ -6,9 +6,9 @@
 🔵 And, by the way, I am addicted to coding.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=blue)](https://linkedin.com/in/mostafa-koolabadi)
-[![Leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=leetcode&logoColor=orange)](https://Leetcode.com/ِDraxsis)
-[![YouTube](https://img.shields.io/badge/Youtube-%230077B5.svg?logo=youtube&logoColor=red)](https://www.youtube.com/@Coding_With_Draxsis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-koolabadi)
+[![Leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=leetcode&logoColor=white)](https://Leetcode.com/ِDraxsis)
+[![YouTube](https://img.shields.io/badge/Youtube-%230077B5.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@Coding_With_Draxsis)
 
 # 💻 Tech Stack:
 
