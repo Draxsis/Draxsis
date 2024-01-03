@@ -10,7 +10,7 @@
 [![Leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=leetcode&logoColor=white)](https://Leetcode.com/ِDraxsis)
 [![YouTube](https://img.shields.io/badge/Youtube-%230077B5.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@Coding_With_Draxsis)
 
-# 💻 Tech Stack:
+# 💻 Tech Stacks:
 
 **Basic Web development:** </br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
