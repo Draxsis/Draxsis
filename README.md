@@ -1,4 +1,4 @@
-# Hey there, I'm Draxsis 👋
+## Hey there, I'm Draxsis 👋
 
 🔵 I am confident working on a big project and excited to explore collaboration opportunities on any project.</br>
 🔵 My current focus is on mastering C# and Web Develop.</br>
