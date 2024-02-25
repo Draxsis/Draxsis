@@ -58,7 +58,7 @@
 | React.js          | Completed basics and advance concepts in MFT                 | October 2021    |     January 2022     |    ✅       |
 | TypeScript        | Still didn't start                                           | -                 |     -                 |      📅   |
 | MUI & Tailwind    | learned how to use and read the Docs                         | September 2021    |      October 2021    |     ✅      |
-| C# & .NET 8       | Still learning in Dotin Bootcamp                             | December 2023     |     February 2024     |       ✅   |
+| C# & .NET 8       | learned Basics, intermadiate and Advance Concepts            | December 2023     |     February 2024     |       ✅   |
 | Unity Engine      | Learning in progress                                         | February 2024     |     -                 |       📅   |
 | SQL server        | Completed basics and advance concepts (OLTP)                 | October 2023      |     December 2023     |     ✅      |
 | MongoDB           | Completed basics but didn't dive into more advanced concepts | August 2022       |     September 2022    |      ✅     |
