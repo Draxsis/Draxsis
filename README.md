@@ -50,9 +50,9 @@
 
 ## 📈 Learning Board (2024) : 
 
-| Book Name             | Publisher                                                 | Start             | End                   | Done        | Notes Repo        |
+| Resource Name             | Publisher                                                 | Start             | End                   | Done        | Notes Repo        |
 |    :---:          |     :---:                                                    |     :---:         |   :---:               |  :---:      |  :---:      |
-| C# in a Nutshell  | O'Reilly  | March 2024        |     -          |    📅      | ![C# Nutshell notes](https://github.com/Draxsis/CSharp_Nutshell) |
+| C# in a Nutshell  | O'Reilly  | March 2024        |     -          |    📅      | [C# Nutshell notes](https://github.com/Draxsis/CSharp_Nutshell) |
 | SQL in a Nutshell | O'Reilly  | -    |     -     |    📅      |- |
 | The Manager's Path| O'Reilly  | -    |     -     |    📅       |- |
 | Design for How People Think | O'Reilly  | -     |     -     |       📅   |- |
