@@ -48,21 +48,16 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)</br>
 
 
-## 📈 Learning Board : 
+## 📈 Learning Board (2024) : 
 
-| Topic             | Description                                                  | Start             | End                   | Done        |
+| Book Name             | Publisher                                                 | Start             | End                   | Done        |
 |    :---:          |     :---:                                                    |     :---:         |   :---:               |  :---:      |
-| HTML & CSS        | Completed basics and advance                                 | March 2021        |     May 2021          |    ✅      |
-| JavaScript        | Completed fundamentals and continued to advance concepts     | June 2021    |     September 2021     |    ✅      |
-| React.js          | Completed basics and advance concepts in MFT                 | October 2021    |     January 2022     |    ✅       |
-| TypeScript        | Still didn't start                                           | -                 |     -                 |      📅   |
-| MUI & Tailwind    | learned how to use and read the Docs                         | September 2021    |      October 2021    |     ✅      |
-| C# & .NET 8       | learned Basics, intermadiate and Advance Concepts            | December 2023     |     February 2024     |       ✅   |
-| Unity Engine      | Learning in progress                                         | February 2024     |     -                 |       📅   |
-| SQL server        | Completed basics and advance concepts (OLTP)                 | October 2023      |     December 2023     |     ✅      |
-| MongoDB           | Completed basics but didn't dive into more advanced concepts | August 2022       |     September 2022    |      ✅     |
-
-
+| C# in a Nutshell  | O'Reilly  | March 2024        |     -          |    📅      |
+| SQL in a Nutshell | O'Reilly  | -    |     -     |    📅      |
+| The Manager's Path| O'Reilly  | -    |     -     |    📅       |
+| Design for How People Think | O'Reilly  | -     |     -     |       📅   |
+| The Gang of Four  | Erich Gamma  | -                 |     -                 |      📅   |
+| Domain-Driven Design| Eric Evans | -    |     -    |     📅      |
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Draxsis&theme=tokyonight&hide_border=false)
