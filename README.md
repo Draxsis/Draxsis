@@ -56,7 +56,7 @@
 | SQL in a Nutshell | O'Reilly  | -    |     -     |    📅      |- |
 | The Manager's Path| O'Reilly  | -    |     -     |    📅       |- |
 | Design for How People Think | O'Reilly  | -     |     -     |       📅   |- |
-| The Gang of Four  | Erich Gamma  | -                 |     -                 |      📅   | -|
+| Grokking Algorithm  | Aditya Bhargava  | July 2024                 |     -                 |      📅   | -|
 | Domain-Driven Design| Eric Evans | -    |     -    |     📅      |- |
 
 ## 📊 GitHub Stats:
