@@ -56,7 +56,7 @@
 | SQL in a Nutshell | O'Reilly  | -    |     -     |    📅      |- |
 | The Manager's Path| O'Reilly  | -    |     -     |    📅       |- |
 | Design for How People Think | O'Reilly  | -     |     -     |       📅   |- |
-| Grokking Algorithm  | Aditya Bhargava  | July 2024                 |     -                 |      📅   | -|
+| Grokking Algorithm  | Aditya Bhargava  | July 2024                 |     -                 |      📅   |[Grokking Algorithm Notes](https://github.com/Draxsis/grokking-Algorithm-Notes)|
 | Domain-Driven Design| Eric Evans | -    |     -    |     📅      |- |
 
 ## 📊 GitHub Stats:
