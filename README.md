@@ -44,12 +44,12 @@
 
 | Topic Name             | Resource                                                 | Start             | End                   | Done        | Notes Repo        |
 |    :---:          |     :---:                                                    |     :---:         |   :---:               |  :---:      |  :---:      |
-| C# Programming  | O'Reilly  | February 2025        |     -          |    📅      | [C# Nutshell notes](https://github.com/Draxsis/CSharp_Nutshell) |
-| SQL Server | O'Reilly  | -    |    February 2025     |    📅      |- |
-| SoftSkills in Work| O'Reilly  | February 2025    |     -     |    📅       |- |
-| Design Patterns | O'Reilly  | February 2025     |     -     |       📅   |- |
-| Data Structures  | Aditya Bhargava  | February 2025                 |     -                 |      📅   |[Grokking Algorithm Notes](https://github.com/Draxsis/grokking-Algorithm-Notes)|
-| ASP.NET Core| Eric Evans | February 2025   |     -    |     📅      |- |
+| C# Programming  | O'Reilly Resources  | February 2025        |     -          |    📅      | [C# Nutshell notes](https://github.com/Draxsis/CSharp_Nutshell) |
+| SQL Server | O'Reilly Resources| -    |    February 2025     |    📅      |- |
+| SoftSkills in Work| Practical Programmer  | February 2025    |     -     |    📅       |- |
+| Design Patterns | Refactoring Guru  | February 2025     |     -     |       📅   |- |
+| Data Structures  | Grokking Data Structure  | February 2025                 |     -                 |      📅   |[Grokking Algorithm Notes](https://github.com/Draxsis/grokking-Algorithm-Notes)|
+| ASP.NET Core| Practical Projects | February 2025   |     -    |     📅      |- |
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Draxsis&theme=tokyonight&hide_border=false)
