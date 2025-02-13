@@ -40,16 +40,16 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)</br>
 
 
-## 📈 Learning Board (2024) : 
+## 📈 Learning Board (2025) : 
 
-| Resource Name             | Publisher                                                 | Start             | End                   | Done        | Notes Repo        |
+| Topic Name             | Resource                                                 | Start             | End                   | Done        | Notes Repo        |
 |    :---:          |     :---:                                                    |     :---:         |   :---:               |  :---:      |  :---:      |
-| C# in a Nutshell  | O'Reilly  | March 2024        |     -          |    📅      | [C# Nutshell notes](https://github.com/Draxsis/CSharp_Nutshell) |
-| SQL in a Nutshell | O'Reilly  | -    |     -     |    📅      |- |
-| The Manager's Path| O'Reilly  | -    |     -     |    📅       |- |
-| Design for How People Think | O'Reilly  | -     |     -     |       📅   |- |
-| Grokking Algorithm  | Aditya Bhargava  | July 2024                 |     -                 |      📅   |[Grokking Algorithm Notes](https://github.com/Draxsis/grokking-Algorithm-Notes)|
-| Domain-Driven Design| Eric Evans | -    |     -    |     📅      |- |
+| C# Programming  | O'Reilly  | February 2025        |     -          |    📅      | [C# Nutshell notes](https://github.com/Draxsis/CSharp_Nutshell) |
+| SQL Server | O'Reilly  | -    |    February 2025     |    📅      |- |
+| SoftSkills in Work| O'Reilly  | February 2025    |     -     |    📅       |- |
+| Design Patterns | O'Reilly  | February 2025     |     -     |       📅   |- |
+| Data Structures  | Aditya Bhargava  | February 2025                 |     -                 |      📅   |[Grokking Algorithm Notes](https://github.com/Draxsis/grokking-Algorithm-Notes)|
+| ASP.NET Core| Eric Evans | February 2025   |     -    |     📅      |- |
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Draxsis&theme=tokyonight&hide_border=false)
