@@ -1,9 +1,11 @@
 ## Hey there, you're visiting Draxsis' profile 👋
 
-🔵 I am confident working on a big project and excited to explore collaboration opportunities on any project.</br>
-🔵 My current focus is on mastering C# and .NET </br>
-🔵 Please feel free to ask me anything, as I am confident I can provide helpful insights.</br>
-🔵 And, by the way, I am addicted to coding.
+- 🔵 Confident working on large-scale projects and always excited to explore new collaboration opportunities.  
+- 🔵 Currently focusing on **mastering C# and .NET** while learning how to build **scalable systems**.  
+- 🔵 Exploring **system design, optimization, and clean documentation** as part of leveling up my engineering skills.  
+- 🔵 Actively practicing and implementing the **Software Development Life Cycle (SDLC)** in my workflow.  
+- 🔵 And yes... I’m totally **addicted to coding** 🤓.  
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-koolabadi)
@@ -41,7 +43,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)</br>
 
 
-## 📈 Learning Board (2025-2026) : 
+## 📈 In Progress Board (2025-2026) : 
 
 | Topic Name             | Resource         | Start           | End                | Done         |
 |    :---:               |     :---:        |     :---:       |   :---:            |  :---:       |
