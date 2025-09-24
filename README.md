@@ -37,7 +37,7 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
-![OpenAI](https://img.shields.io/badge/openai-FF6C37?style=flat-square&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/openai-808080?style=flat-square&logo=openai&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)</br>
 
 
