@@ -43,14 +43,14 @@
 
 ## 📈 Learning Board (2025-2026) : 
 
-| Topic Name             | Resource                                                 | Start             | End                   | Done        |
-|    :---:          |     :---:                                                    |     :---:         |   :---:               |  :---:     | 
-| TeaCup Project  | -  | December 2025        |     -          |    📅      |
-| Clinic ERP System | -| -    |    December 2025     |    📅     | 
-| **** Project | -  | December 2025    |     -     |    📅       |
-| Social Media Dashboard | -  | December 2025     |     -     |       📅   |
-| Personal Portfolio  | -  | December 2025                 |     -                 |      📅   |
-| Company Portfolio | - | December 2025   |     -    |     📅      |
+| Topic Name             | Resource         | Start           | End                | Done         |
+|    :---:               |     :---:        |     :---:       |   :---:            |  :---:       |
+| TeaCup Project         | -                | Feb 2025   |     -              |       📅    |
+| Clinic ERP System      | -                | Jun 2025   |     -              |       📅    |
+| **** Project           | -                | October 2024   |     -              |       📅    |
+| Social Media Dashboard | -                | September 2025   |     -              |       📅    |
+| Personal Portfolio     | -                | September 2025   |     -              |      📅     |
+| Company Portfolio      | -                | September 2025   |     -              |     📅      |
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Draxsis&theme=tokyonight&hide_border=false)
