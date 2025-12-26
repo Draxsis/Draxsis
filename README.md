@@ -46,18 +46,23 @@
 
 ### 📊 GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Draxsis&theme=tokyonight&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draxsis&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Draxsis&theme=github" width="100%" />
-</p>
+| 🔥 Contribution Streak | 🔝 Top Languages |
+| :---: | :---: |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=Draxsis&theme=tokyonight&hide_border=false" width="100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draxsis&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact" width="100%" /> |
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Draxsis&theme=radical&no-frame=false&margin-w=4" />
-</p>
+<br />
+
+**Activity Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Draxsis&theme=github&area=true&hide_border=true" width="100%" />
+
+<br />
+
+**Achievements**
+<img src="https://github-profile-trophy.vercel.app/?username=Draxsis&theme=radical&no-frame=false&margin-w=4" />
+
+</div>
 
 ---
 
