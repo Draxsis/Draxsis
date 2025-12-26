@@ -1,11 +1,8 @@
-# 🚀 Coding With Draxsis
-
-![Banner]([LINK_TO_YOUR_NEW_BANNER])
-
 <p align="center">
-  <strong>Exploring the World of Development and Tech</strong><br>
-  Focused on .NET Ecosystem | Scalable Systems | Software Architecture
+  <img src="[PASTE_IMAGE_URL_HERE]" alt="Coding With Draxsis Banner" width="100%">
 </p>
+
+<h1 align="center">Hey there, you're visiting Draxsis' profile 👋</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/mostafa-koolabadi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -16,12 +13,12 @@
 ---
 
 ### 👨‍💻 About Me
-I am a software engineer passionate about building high-performance, scalable applications. Currently, I am deep-diving into the **.NET ecosystem** and mastering the art of **System Design**.
 
-* 🔭 **Currently focusing on:** Mastering C#, ASP.NET Core, and Scalable Architectures.
-* ⚡ **Engineering Mindset:** Implementing SDLC best practices, clean documentation, and code optimization.
-* 🤝 **Collaboration:** I love working on large-scale projects and am always open to interesting collaborations.
-* 🤓 **Fun Fact:** I’m officially addicted to solving complex problems through code.
+- 🔵 **Scale-Ready:** Confident working on large-scale projects and always excited to explore new collaboration opportunities.  
+- 🔵 **Focus:** Currently focusing on **mastering C# and .NET** while learning how to build **scalable systems**.  
+- 🔵 **Engineering:** Exploring **system design, optimization, and clean documentation** as part of leveling up my skills.  
+- 🔵 **Process:** Actively practicing and implementing the **Software Development Life Cycle (SDLC)** in my workflow.  
+- 🔵 **Passion:** And yes... I’m totally **addicted to coding** 🤓.  
 
 ---
 
@@ -29,31 +26,42 @@ I am a software engineer passionate about building high-performance, scalable ap
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Backend** | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
-| **Cloud & Tools** | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) |
+| **Web Basics** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) |
+| **Backend** | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
+| **Tools** | ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 
 ---
 
-### 📈 2025 - 2026 Roadmap
-> *Progressing through high-impact projects and system architectural learning.*
+### 📈 In Progress Board (2025-2026)
 
-- [ ] **TeaCup Project** - *High-level system implementation* (Starting Feb 2025)
-- [ ] **Clinic ERP System** - *Enterprise Resource Planning* (Starting Jun 2025)
-- [ ] **Social Media Dashboard** - *Data Visualization & Analytics*
-- [ ] **Personal Portfolio** - *Showcasing my engineering journey*
+| Topic Name | Start | Done |
+| :--- | :---: | :---: |
+| **TeaCup Project** | Feb 2025 | 📅 |
+| **Clinic ERP System** | Jun 2025 | 📅 |
+| **Social Media Dashboard** | Sep 2025 | 📅 |
+| **Personal Portfolio** | Sep 2025 | 📅 |
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Activity & Stats
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Draxsis&theme=tokyonight&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draxsis&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Draxsis&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draxsis&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Draxsis&theme=github" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Draxsis&theme=radical&no-frame=false&margin-w=4" />
 </p>
 
 ---
 
 <p align="center">
-  <em>"Code, Learn, Share, Repeat."</em><br>
-  <strong>Something big is coming soon...</strong>
+  🔥 <em>“Code, Learn, Share, Repeat.”</em><br>
+  <strong>Something coming up soon...</strong>
 </p>
