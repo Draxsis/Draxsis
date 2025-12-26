@@ -1,68 +1,59 @@
-## Hey there, you're visiting Draxsis' profile 👋
+# 🚀 Coding With Draxsis
 
-- 🔵 Confident working on large-scale projects and always excited to explore new collaboration opportunities.  
-- 🔵 Currently focusing on **mastering C# and .NET** while learning how to build **scalable systems**.  
-- 🔵 Exploring **system design, optimization, and clean documentation** as part of leveling up my engineering skills.  
-- 🔵 Actively practicing and implementing the **Software Development Life Cycle (SDLC)** in my workflow.  
-- 🔵 And yes... I’m totally **addicted to coding** 🤓.  
+![Banner]([LINK_TO_YOUR_NEW_BANNER])
 
+<p align="center">
+  <strong>Exploring the World of Development and Tech</strong><br>
+  Focused on .NET Ecosystem | Scalable Systems | Software Architecture
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-koolabadi)
-[![Leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=leetcode&logoColor=white)](https://Leetcode.com/ِDraxsis)
-[![YouTube](https://img.shields.io/badge/Youtube-%230077B5.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@Coding_With_Draxsis)
+<p align="center">
+  <a href="https://linkedin.com/in/mostafa-koolabadi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://Leetcode.com/ِDraxsis"><img src="https://img.shields.io/badge/Leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.youtube.com/@Coding_With_Draxsis"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
 
-# 💻 Tech Stack:
+---
 
-**Basic Web development:** </br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)</br>
+### 👨‍💻 About Me
+I am a software engineer passionate about building high-performance, scalable applications. Currently, I am deep-diving into the **.NET ecosystem** and mastering the art of **System Design**.
 
-**Backend with C# & ASP.NET:** </br>
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)</br>
+* 🔭 **Currently focusing on:** Mastering C#, ASP.NET Core, and Scalable Architectures.
+* ⚡ **Engineering Mindset:** Implementing SDLC best practices, clean documentation, and code optimization.
+* 🤝 **Collaboration:** I love working on large-scale projects and am always open to interesting collaborations.
+* 🤓 **Fun Fact:** I’m officially addicted to solving complex problems through code.
 
-**Frontend with React:** </br>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white)</br>
+---
 
-**Tools & Techs:** </br>
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
-![OpenAI](https://img.shields.io/badge/openai-808080?style=flat-square&logo=openai&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)</br>
+### 💻 Tech Stack
 
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Backend** | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
+| **Cloud & Tools** | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) |
 
-## 📈 In Progress Board (2025-2026) : 
+---
 
-| Topic Name             | Resource         | Start           | End                | Done         |
-|    :---:               |     :---:        |     :---:       |   :---:            |  :---:       |
-| TeaCup Project         | -                | Feb 2025   |     -              |       📅    |
-| Clinic ERP System      | -                | Jun 2025   |     -              |       📅    |
-| **** Project           | -                | October 2024   |     -              |       📅    |
-| Social Media Dashboard | -                | September 2025   |     -              |       📅    |
-| Personal Portfolio     | -                | September 2025   |     -              |      📅     |
-| Company Portfolio      | -                | September 2025   |     -              |     📅      |
+### 📈 2025 - 2026 Roadmap
+> *Progressing through high-impact projects and system architectural learning.*
 
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Draxsis&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Draxsis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- [ ] **TeaCup Project** - *High-level system implementation* (Starting Feb 2025)
+- [ ] **Clinic ERP System** - *Enterprise Resource Planning* (Starting Jun 2025)
+- [ ] **Social Media Dashboard** - *Data Visualization & Analytics*
+- [ ] **Personal Portfolio** - *Showcasing my engineering journey*
 
-## ![Draxsis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Draxsis&theme=github)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Draxsis&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### 📊 GitHub Insights
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Draxsis&theme=tokyonight&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draxsis&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact" />
+</p>
 
+---
 
-🔥 *“Code, Learn, Share, Repeat.”*  
-> Something Coming up soon ..   
+<p align="center">
+  <em>"Code, Learn, Share, Repeat."</em><br>
+  <strong>Something big is coming soon...</strong>
+</p>
