@@ -22,37 +22,31 @@
 
 ---
 
-### 💻 Tech Stack
+### 💻 Technical Proficiency
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Web Basics** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) |
-| **Backend** | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
-| **Tools** | ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+| Category | Stack | Proficiency |
+| :--- | :--- | :--- |
+| **Backend Engineering** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | ![Progress](https://geps.dev/progress/85?dangerColor=0077B5&warningColor=0077B5&successColor=4ec9b0) |
+| **Frontend Development** | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TS-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Progress](https://geps.dev/progress/70?dangerColor=0077B5&warningColor=0077B5&successColor=4ec9b0) |
+| **Architecture & Cloud** | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![SDLC](https://img.shields.io/badge/SDLC-Systems-blue?style=flat-square) | ![Progress](https://geps.dev/progress/50?dangerColor=0077B5&warningColor=0077B5&successColor=4ec9b0) |
+| **Environment & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) | ![Progress](https://geps.dev/progress/90?dangerColor=0077B5&warningColor=0077B5&successColor=4ec9b0) |
 
 ---
 
-### 📈 In Progress Board (2025-2026)
+### 🚀 Strategic Roadmap (2025-2026)
 
-| Topic Name | Start | Done |
-| :--- | :---: | :---: |
-| **TeaCup Project** | Feb 2025 | 📅 |
-| **Clinic ERP System** | Jun 2025 | 📅 |
-| **Social Media Dashboard** | Sep 2025 | 📅 |
-| **Personal Portfolio** | Sep 2025 | 📅 |
+| Project / Goal | Focus Area | Timeline | Status |
+| :--- | :--- | :---: | :--- |
+| **TeaCup System** | Microservices & API Design | Feb 2025 | 🏗️ *In Development* |
+| **Clinic ERP** | Enterprise Logic & Database | Jun 2025 | 📝 *Planning* |
+| **Social Dashboard** | Real-time Data & MUI | Sep 2025 | 🕒 *Upcoming* |
+| **Engineering Brand** | Personal Portfolio & Blog | Oct 2025 | 🎨 *Concept* |
 
 ---
 
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-
-| 🏆 Language Mastery |
-| :---: |
-| <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" alt="Top Language" /> |
-
-<br />
 
 **Contribution Graph**
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Draxsis&theme=tokyonight&area=true&hide_border=true" width="100%" />
