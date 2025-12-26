@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![Uploading Gemini_Generated_Image_kv97xgkv97xgkv97.png…]()
-" alt="Coding With Draxsis Banner" width="100%">
+  <img src="<img width="1023" height="313" alt="Gemini_Generated_Image_kv97xgkv97xgkv97" src="https://github.com/user-attachments/assets/35f8ec2c-2b32-475c-91cc-03229d0006a1" />" alt="Coding With Draxsis Banner" width="100%">
 </p>
 
 <h1 align="center">Hey there, you're visiting Draxsis' profile 👋</h1>
