@@ -49,8 +49,8 @@
 <div align="center">
 
 | ⚡ Activity Overview | 🏆 Language Mastery |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Draxsis&show_icons=true&theme=tokyonight&hide_border=true" alt="Main Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draxsis&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" /> |
+| :---: |
+| <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" alt="Top Language" /> |
 
 <br />
 
@@ -64,7 +64,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Draxsis&theme=tokyonight" width="100%" />
 </p>
 
-</div>>
+</div>
 
 ---
 
