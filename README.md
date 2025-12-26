@@ -48,20 +48,23 @@
 
 <div align="center">
 
-| 🔥 Contribution Streak | 🔝 Top Languages |
+| ⚡ Activity Overview | 🏆 Language Mastery |
 | :---: | :---: |
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=Draxsis&theme=tokyonight&hide_border=false" alt="Streak Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draxsis&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=Draxsis&show_icons=true&theme=tokyonight&hide_border=true" alt="Main Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draxsis&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" /> |
 
 <br />
 
-**Activity Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Draxsis&theme=github&area=true&hide_border=true" width="100%" />
+**Contribution Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Draxsis&theme=tokyonight&area=true&hide_border=true" width="100%" />
 
 <br />
 
-**Achievements & Trophies** <img src="https://github-profile-trophy.vercel.app/?username=Draxsis&theme=radical&margin-w=15" alt="Trophies" />
+**Skills & Trophies**
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Draxsis&theme=tokyonight" width="100%" />
+</p>
 
-</div>
+</div>>
 
 ---
 
