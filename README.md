@@ -48,7 +48,7 @@
 
 <div align="center">
 
-| ⚡ Activity Overview | 🏆 Language Mastery |
+| 🏆 Language Mastery |
 | :---: |
 | <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" alt="Top Language" /> |
 
@@ -59,16 +59,8 @@
 
 <br />
 
-**Skills & Trophies**
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Draxsis&theme=tokyonight" width="100%" />
 </p>
 
 </div>
-
----
-
-<p align="center">
-  🔥 <em>“Code, Learn, Share, Repeat.”</em><br>
-  <strong>Something coming up soon...</strong>
-</p>
