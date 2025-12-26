@@ -50,7 +50,7 @@
 
 | 🔥 Contribution Streak | 🔝 Top Languages |
 | :---: | :---: |
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=Draxsis&theme=tokyonight&hide_border=false" width="100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draxsis&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact" width="100%" /> |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=Draxsis&theme=tokyonight&hide_border=false" alt="Streak Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draxsis&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" /> |
 
 <br />
 
@@ -59,8 +59,7 @@
 
 <br />
 
-**Achievements**
-<img src="https://github-profile-trophy.vercel.app/?username=Draxsis&theme=radical&no-frame=false&margin-w=4" />
+**Achievements & Trophies** <img src="https://github-profile-trophy.vercel.app/?username=Draxsis&theme=radical&margin-w=15" alt="Trophies" />
 
 </div>
 
