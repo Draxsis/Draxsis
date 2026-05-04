@@ -33,15 +33,15 @@
 
 ---
 
-### 🚀 Strategic Roadmap (2025-2026)
+### 🧭 Strategic Roadmap (2026–2027)  
+*From Code → Product → Scale*
 
-| Project / Goal | Focus Area | Timeline | Status |
+| Project / Goal | Focus Area | Timeline | Role / Shift |
 | :--- | :--- | :---: | :--- |
-| **TeaCup System** | Microservices & API Design | Feb 2025 | 🏗️ *In Development* |
-| **Clinic ERP** | Enterprise Logic & Database | Jun 2025 | 📝 *Planning* |
-| **Social Dashboard** | Real-time Data & MUI | Sep 2025 | 🕒 *Upcoming* |
-| **Engineering Brand** | Personal Portfolio & Blog | Oct 2025 | 🎨 *Concept* |
-
+| **Hils Startup Platform** | System Architecture & API Design | Feb 2025 | ✅ *Shipped* (Technical foundation) |
+| **Clinical Enterprise System** | Product Logic + UX Strategy | Jun 2025 | 🧠 *Product-led design* |
+| **Engineering Brand** | Portfolio + Case Studies | Oct 2025 | ✍️ *Storytelling & positioning* |
+| **🚀 Platform Scaling** | Growth, team workflow, product-market fit | 2026–2027 | 🔁 *Product management & scaling* |
 ---
 
 ### 📊 GitHub Activity & Stats
