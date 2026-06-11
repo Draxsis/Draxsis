@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/35f8ec2c-2b32-475c-91cc-03229d0006a1" width="120" style="border-radius: 50%"/>
-</p>
-
 <h2 align="center">Mostafa Koolabadi — Draxsis</h2>
 <p align="center">
   <em>Backend Engineer · C# & .NET · Building Scalable Systems</em>
